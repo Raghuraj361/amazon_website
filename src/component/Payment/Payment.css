@@ -1,0 +1,78 @@
+.payment {
+  text-align: center;
+  
+}
+.main {
+  background-color: gary;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+}
+.popup {
+  height: 400px;
+  width: 50%;
+  background-color: #fff;
+  position: absolute;
+  top: 25%;
+  right: 25%;
+  box-shadow: 8px 6px 20px #f0c14b;
+}
+.popup-leader {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 36px 0 15px;
+  border-bottom: 2px solid #f0c14b;
+}
+.popup__button {
+  background: #f0c14b;
+  border: 1px solid;
+  margin-top: 10px;
+  border-color: #a88734 #9c7e31 #846a29;
+  color: #111;
+  cursor: pointer;
+  width: 40%;
+}
+.input__area {
+  display: inline-grid;
+  gap: 20px;
+}
+.payment__input {
+  width: 470px;
+  height: 100px;
+}
+.all__radio {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-content: center;
+  align-items: flex-start;
+}
+
+
+
+.payment__method {
+  margin: 10px;
+}
+.completePaymentButton {
+  background: #f0c14b;
+  border: 1px solid;
+  margin-top: 10px;
+  border-color: #a88734 #9c7e31 #846a29;
+  color: #111;
+  cursor: pointer;
+  width: 40%;
+}
+.input__radio1 {
+  position: relative;
+  /* right: 15px; */
+}
+.input__radio2 {
+  position: relative;
+  /* right: 6px; */
+}
+.input__radio3 {
+  position: relative;
+  /* right: 8px; */
+}

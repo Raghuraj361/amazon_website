@@ -55,5 +55,3 @@ function Product(props) {
   );
 }
 export default Product;
-
-// <button onClick={addToBasket}>Add to Basket</button>

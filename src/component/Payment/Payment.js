@@ -110,5 +110,4 @@ function Payment({ id, image, title, price, rating }) {
     </div>
   );
 }
-
 export default Payment;

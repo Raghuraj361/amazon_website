@@ -63,6 +63,9 @@
     margin-top: 13px;
     margin-left: 30px;
 }
+.navbar_text navbar__returns {
+   margin-top: 13px;
+}
 .navbar__returns {
     width: 75px;
     margin-top:13px;
